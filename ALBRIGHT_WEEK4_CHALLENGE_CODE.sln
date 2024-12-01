@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALBRIGHT_WEEK4_CHALLENGE_CODE", "ALBRIGHT_WEEK4_CHALLENGE_CODE.csproj", "{F52DFE63-D0AA-43E1-BFBA-AC18AF856023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52DFE63-D0AA-43E1-BFBA-AC18AF856023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52DFE63-D0AA-43E1-BFBA-AC18AF856023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52DFE63-D0AA-43E1-BFBA-AC18AF856023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52DFE63-D0AA-43E1-BFBA-AC18AF856023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7158B69A-7391-4AE2-B273-5C3E9D6F63AC}
+	EndGlobalSection
+EndGlobal
